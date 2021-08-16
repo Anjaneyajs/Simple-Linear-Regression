@@ -1,2 +1,2 @@
 # Simple-Linear-Regression
-Mini Project
+Mini Project of Cognitive Learning
